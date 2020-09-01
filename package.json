@@ -1,0 +1,18 @@
+{
+  "name": "@simonhlee97/mynpm",
+  "version": "1.0.0",
+  "description": "My first try at publishing a module",
+	"main": "index.js",
+	"homepage": "https://github.com/simonhlee97/mynpm",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["tutorial"],
+  "author": "Simon Lee",
+	"license": "MIT",
+	"private": false,
+	"engines": {
+		"node": ">=6.0.0"
+	},
+	"engineStrict": true
+}
