@@ -1,7 +1,7 @@
 {
  "name": "@simonhlee97/mynpm",
- "version": "1.0.1",
- "description": "My first try at publishing a module",
+ "version": "1.0.2",
+ "description": "My first try at publishing a module NPM",
  "main": "index.js",
  "homepage": "https://github.com/simonhlee97/mynpm",
  "scripts": {
